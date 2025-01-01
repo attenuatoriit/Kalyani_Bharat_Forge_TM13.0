@@ -8,7 +8,7 @@ This folder contains the codebase, videos and documentation for our submission o
 
 Individual readme files can be found within the folder.
 
-The other individuals involved in the problem statement besides me were [@varun](https://github.com/vm349177),[@pranav](https://github.com/PranavKrishna6939), [@joel](https://github.com/joel-bansal), [@ashish](https://github.com/ashishu23), [@soumyajith](https://github.com/Soumyajith23), [@manvi](https://github.com/manvimarshmallow). 
-I would like to thank all of them for their efforts.
+The other individuals involved in the problem statement besides me were [@varun](https://github.com/vm349177), [@pranav](https://github.com/PranavKrishna6939),  [@joel](https://github.com/joel-bansal),  [@ashish](https://github.com/ashishu23),  [@soumyajith](https://github.com/Soumyajith23),  [@manvi](https://github.com/manvimarshmallow). 
+
 
 The slam-gmapping folder was from the repository [link](https://github.com/charlielito/slam_gmapping). While the concept of map merging was inherited from the repository [map-merge](https://github.com/robo-friends/m-explore-ros2)
